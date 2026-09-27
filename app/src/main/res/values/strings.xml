@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Muhur Games</string>
+    <string name="tab_games">Games</string>
+    <string name="tab_earn">Earn &amp; Tasks</string>
+    <string name="tab_wallet">Wallet</string>
+    <string name="tab_dev_zone">Dev Zone</string>
+    <string name="spin_wheel_title">Lucky Spin</string>
+    <string name="speed_tap_title">Speed Tapper</string>
+    <string name="memory_match_title">Memory Match</string>
+    <string name="scratch_card_title">Scratch &amp; Win</string>
+    <string name="math_quiz_title">Math Rush</string>
+    <string name="coins_label">Coins</string>
+    <string name="redeem_label">Redeem</string>
+    <string name="daily_checkin">Daily Check-in</string>
+</resources>

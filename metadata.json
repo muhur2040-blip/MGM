@@ -1,0 +1,6 @@
+{
+  "name": "Muhur Games",
+  "description": "Play interactive arcade games, earn reward coins, complete daily quests, and explore developer Muhur's indie game releases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
